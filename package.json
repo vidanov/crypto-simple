@@ -1,0 +1,27 @@
+{
+  "name": "crypto-simple",
+  "version": "1.0.6",
+  "description": "Usage of crypto for encrypt/decrypt strings",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "crypto",
+    "strings",
+    "encrypt",
+    "decrypt"
+  ],
+  "author": "Vance Lucas, Alexey Vidanov",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vidanov/crypto-simple.git"
+  },
+  "bugs": {
+    "url": "https://github.com/vidanov/crypto-simple/issues"
+  },
+  "homepage": "https://github.com/vidanov/crypto-simple"
+}
