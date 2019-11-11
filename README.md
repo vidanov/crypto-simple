@@ -1,4 +1,6 @@
-## CRYPTO SIMPLE
+## CRYPTO SIMPLE FOR NODE JS APPS
+
+The easiest way to keep your sensitive information safe encrypted in your NodeJS apps.
 
 *I just packaged the [Gist code](https://gist.github.com/vlucas/2bd40f62d20c1d49237a109d491974eb) by Vance Lucas from [his blog post](http://vancelucas.com/blog/stronger-encryption-and-decryption-in-node-js/) into a NPM package*
 
